@@ -1,26 +1,4 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "Latitude": "50.93411", "Longitude": " -1.79376", "Name": " Whitsbury Road" }, "geometry": { "type": "Point", "coordinates": [ -1.79376, 50.93411 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93162", "Longitude": " -1.80089", "Name": " Marl Lane" }, "geometry": { "type": "Point", "coordinates": [ -1.80089, 50.93162 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93584", "Longitude": " -1.79205", "Name": " Pennys Lane" }, "geometry": { "type": "Point", "coordinates": [ -1.79205, 50.93584 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92620", "Longitude": " -1.79792", "Name": " Reeder Close" }, "geometry": { "type": "Point", "coordinates": [ -1.79792, 50.9262 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92700", "Longitude": " -1.78654", "Name": " Southampton Road" }, "geometry": { "type": "Point", "coordinates": [ -1.78654, 50.927 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93027", "Longitude": " -1.79711", "Name": " 37 Normandy Way" }, "geometry": { "type": "Point", "coordinates": [ -1.79711, 50.93027 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92976", "Longitude": " -1.79720", "Name": " 29 Normandy Way" }, "geometry": { "type": "Point", "coordinates": [ -1.7972, 50.92976 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92252", "Longitude": " -1.79609", "Name": " Drummond House" }, "geometry": { "type": "Point", "coordinates": [ -1.79609, 50.92252 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93692", "Longitude": " -1.77773", "Name": " NE Fordingbridge next to Avon" }, "geometry": { "type": "Point", "coordinates": [ -1.77773, 50.93692 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92072", "Longitude": " -1.79724", "Name": " Frog Lane" }, "geometry": { "type": "Point", "coordinates": [ -1.79724, 50.92072 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93508", "Longitude": " -1.77936", "Name": " NE Fordingbridge next to path" }, "geometry": { "type": "Point", "coordinates": [ -1.77936, 50.93508 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93133", "Longitude": " -1.79463", "Name": " Parsonage Cottage Green Lane" }, "geometry": { "type": "Point", "coordinates": [ -1.79463, 50.93133 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93025", "Longitude": " -1.79354", "Name": " Green Lane" }, "geometry": { "type": "Point", "coordinates": [ -1.79354, 50.93025 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92216", "Longitude": " -1.79444", "Name": " S of church" }, "geometry": { "type": "Point", "coordinates": [ -1.79444, 50.92216 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92746", "Longitude": " -1.79522", "Name": " Westgrove" }, "geometry": { "type": "Point", "coordinates": [ -1.79522, 50.92746 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.91442", "Longitude": " -1.79086", "Name": " N of Bickton Mill" }, "geometry": { "type": "Point", "coordinates": [ -1.79086, 50.91442 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.91262", "Longitude": " -1.79087", "Name": " S of Bickton Mill" }, "geometry": { "type": "Point", "coordinates": [ -1.79087, 50.91262 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.93688", "Longitude": " -1.78551", "Name": " A338 slip road" }, "geometry": { "type": "Point", "coordinates": [ -1.78551, 50.93688 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92288", "Longitude": " -1.79822", "Name": " Padstow Place" }, "geometry": { "type": "Point", "coordinates": [ -1.79822, 50.92288 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92524", "Longitude": " -1.80931", "Name": " Ashford Road" }, "geometry": { "type": "Point", "coordinates": [ -1.80931, 50.92524 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92720", "Longitude": " -1.79692", "Name": " Station Road" }, "geometry": { "type": "Point", "coordinates": [ -1.79692, 50.9272 ] } }
-]
-}
+{ "type": "Feature", "properties": { "Latitude": "50.93411", "Longitude": " -1.79376", marker-color:red,
