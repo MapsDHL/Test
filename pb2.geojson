@@ -1,4 +1,4 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "Latitude": "50.93411", "Longitude": " -1.79376", marker-color:red,
+{ "type": "Feature", "properties": { "Latitude": "50.93411", "Longitude": " -1.79376", marker-color: #ff0000,
