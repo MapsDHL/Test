@@ -22,15 +22,15 @@
 { "type": "Feature", "properties": { "Latitude": "50.92288", "Longitude": " -1.79822", "Name": " Padstow Place" }, "geometry": { "type": "Point", "coordinates": [ -1.79822, 50.92288 ] } },
 { "type": "Feature", "properties": { "Latitude": "50.92524", "Longitude": " -1.80931", "Name": " Ashford Road" }, "geometry": { "type": "Point", "coordinates": [ -1.80931, 50.92524 ] } },
 { "type": "Feature", "properties": { "Latitude": "50.92720", "Longitude": " -1.79692", "Name": " Station Road" }, "geometry": { "type": "Point", "coordinates": [ -1.79692, 50.9272 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92467", "Longitude": " -1.79181", "Name": " Town Mill" }, "geometry": { "type": "Point", "coordinates": [ -1.79181, 50.92467 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92718", "Longitude": " -1.78896", "Name": " Avon Bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78896, 50.92718 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92342", "Longitude": " -1.79538", "Name": " Church Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79538, 50.92342 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92871", "Longitude": " -1.78881", "Name": " Green Lane\/Salisbury Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78881, 50.92871 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92691", "Longitude": " -1.78796", "Name": " E of bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78796, 50.92691 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92718", "Longitude": " -1.78938", "Name": " W of bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78938, 50.92718 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92871", "Longitude": " -1.78809", "Name": " Salisbury Road" }, "geometry": { "type": "Point", "coordinates": [ -1.78809, 50.92871 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92665", "Longitude": " -1.79565", "Name": " Shaftesbury Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79565, 50.92665 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92494", "Longitude": " -1.79466", "Name": " West Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79466, 50.92494 ] } },
-{ "type": "Feature", "properties": { "Latitude": "50.92673", "Longitude": " -1.78697", "Name": " Southampton Road\/Bridge Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78697, 50.92673 ] } }
+{ "type": "Feature", "properties": { "Latitude": "50.92467", "Longitude": " -1.79181", "Name": " Town Mill" }, "geometry": { "type": "Point", "coordinates": [ -1.79181, 50.92467 ] } , "properties" : { "marker-color": "#00ff00"}},
+{ "type": "Feature", "properties": { "Latitude": "50.92718", "Longitude": " -1.78896", "Name": " Avon Bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78896, 50.92718] }, "properties" : { "marker-color": "#000000"}},
+{ "type": "Feature", "properties": { "Latitude": "50.92342", "Longitude": " -1.79538", "Name": " Church Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79538, 50.92342 ] } , "properties" : { "marker-color": "#ff0000"} },
+{ "type": "Feature", "properties": { "Latitude": "50.92871", "Longitude": " -1.78881", "Name": " Green Lane\/Salisbury Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78881, 50.92871 ] } , "properties" : { "marker-color": "#ff0000"}},
+{ "type": "Feature", "properties": { "Latitude": "50.92691", "Longitude": " -1.78796", "Name": " E of bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78796, 50.92691 ] } , "properties" : { "marker-color": "#ff0000"}},
+{ "type": "Feature", "properties": { "Latitude": "50.92718", "Longitude": " -1.78938", "Name": " W of bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.78938, 50.92718 ] }, "properties" : { "marker-color": "#ff0000"} },
+{ "type": "Feature", "properties": { "Latitude": "50.92871", "Longitude": " -1.78809", "Name": " Salisbury Road" }, "geometry": { "type": "Point", "coordinates": [ -1.78809, 50.92871 ] }, "properties" : { "marker-color": "#ff0000"} },
+{ "type": "Feature", "properties": { "Latitude": "50.92665", "Longitude": " -1.79565", "Name": " Shaftesbury Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79565, 50.92665 ] }, "properties" : { "marker-color": "#ff0000"} },
+{ "type": "Feature", "properties": { "Latitude": "50.92494", "Longitude": " -1.79466", "Name": " West Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79466, 50.92494 ] } , "properties" : { "marker-color": "#ff0000"}},
+{ "type": "Feature", "properties": { "Latitude": "50.92673", "Longitude": " -1.78697", "Name": " Southampton Road\/Bridge Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78697, 50.92673 ] }, "properties" : { "marker-color": "#ff0000"} }
 ]
 }
