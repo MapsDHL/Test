@@ -31,6 +31,13 @@
 { "type": "Feature", "properties": { "Latitude": "50.92871", "Longitude": " -1.78809", "Name": " Salisbury Road" }, "geometry": { "type": "Point", "coordinates": [ -1.78809, 50.92871 ] }, "properties" : { "marker-color": "#ff0000"} },
 { "type": "Feature", "properties": { "Latitude": "50.92665", "Longitude": " -1.79565", "Name": " Shaftesbury Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79565, 50.92665 ] }, "properties" : { "marker-color": "#ff0000"} },
 { "type": "Feature", "properties": { "Latitude": "50.92494", "Longitude": " -1.79466", "Name": " West Street" }, "geometry": { "type": "Point", "coordinates": [ -1.79466, 50.92494 ] } , "properties" : { "marker-color": "#ff0000"}},
-{ "type": "Feature", "properties": { "Latitude": "50.92673", "Longitude": " -1.78697", "Name": " Southampton Road\/Bridge Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78697, 50.92673 ] }, "properties" : { "marker-color": "#ff0000"} }
+{ "type": "Feature", "properties": { "Latitude": "50.92673", "Longitude": " -1.78697", "Name": " Southampton Road\/Bridge Street" }, "geometry": { "type": "Point", "coordinates": [ -1.78697, 50.92673 ] }, "properties" : { "marker-color": "#ff0000"} },
+{ "type": "Feature", "properties": { "lat": "50.93242", "long": " -1.79932" }, "geometry": { "type": "Point", "coordinates": [ -1.79932, 50.93242 ] } },
+{ "type": "Feature", "properties": { "lat": "50.92252", "long": " -1.79652" }, "geometry": { "type": "Point", "coordinates": [ -1.79652, 50.92252 ] } },
+{ "type": "Feature", "properties": { "lat": "50.93241", "long": " -1.79505" }, "geometry": { "type": "Point", "coordinates": [ -1.79505, 50.93241 ] } },
+{ "type": "Feature", "properties": { "lat": "50.91531", "long": " -1.78944" }, "geometry": { "type": "Point", "coordinates": [ -1.78944, 50.91531 ] } },
+{ "type": "Feature", "properties": { "lat": "50.91890", "long": " -1.78373" }, "geometry": { "type": "Point", "coordinates": [ -1.78373, 50.91890 ] } }
+
+
 ]
 }
